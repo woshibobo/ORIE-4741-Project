@@ -1,4 +1,4 @@
-# ORIE-4741-Project A Peek Inside the House Pricing Blackbox 
+# ORIE 4741 Project: A Peek Inside the House Pricing Blackbox 
 
 Team Members: 
   Bo Zhang
